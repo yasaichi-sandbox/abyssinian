@@ -1,0 +1,8 @@
+{
+  "name": "abyssinian",
+  "private": true,
+  "devDependencies": {
+    "stylelint": "^7.11.1",
+    "stylelint-config-standard": "^16.0.0"
+  }
+}
